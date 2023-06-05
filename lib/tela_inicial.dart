@@ -35,7 +35,7 @@ class PrimeiraTela extends StatelessWidget{
               controller: itemClear,
               // O STYLE É UMA FORMA DE EU CONSEGUIR DEIXAR O TEXTO COM O TAMANHO DA FONTE QUE EU QUERO
               //DA COR QUE EU QUERO E TAMBEM DO ESTILO DA FONTE */
-              style: const TextStyle(color: Colors.black, fontSize:30),
+              style: const TextStyle(color: Colors.black, fontSize:20),
               //DECORATION OBTEM O INPUTDECORATION QUE NADA MAIS É O TEXTO APRESENTADO NO TEXTFIELD 
               //INFORMANDO QUE ALI DEVE SER INFORMADO UM ITEM*/
               decoration: const InputDecoration(
