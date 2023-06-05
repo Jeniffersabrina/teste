@@ -54,7 +54,7 @@ class _SegundaTelaState extends State<SegundaTela>{
             child: Text('Item: ${dados_tb.toString()}',
 
             // AQUI EU ESTILIZO A COR DO TEXTO E O TAMANHO DELE
-            style: const TextStyle(fontSize: 30, color: Colors.black)
+            style: const TextStyle(fontSize: 20, color: Colors.black)
             ),
           ),
 // ----------------------------------- FIM DO TEXTO QUE APRESENTA MEU ITEM -----------------------
