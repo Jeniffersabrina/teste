@@ -31,8 +31,6 @@ class PrimeiraTela extends StatelessWidget{
               },
             ),
           ),
-
-// AQUI TENHO O MEU BOTÃO QUE FARÁ A AÇÃO DE ADICIONAR O ITEM NO BANCO DE DADOS
           Row(
             children: [
             Padding(
